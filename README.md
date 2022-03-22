@@ -8,4 +8,4 @@ This is a repository to introduce the basics of git and Github
 5. forking
 6. commit
 7. fetch
-
+Thats all
