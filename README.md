@@ -5,3 +5,7 @@ This is a repository to introduce the basics of git and Github
 2. cloning
 3. push
 4. pull
+5. forking
+6. commit
+7. fetch
+
